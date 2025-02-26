@@ -7,7 +7,7 @@ import ReactNativeAsyncStorage from '@react-native-async-storage/async-storage';
 
 // // Your web app's Firebase configuration
 // const firebaseConfig = {
-//   apiKey: "AIzaSyCjLKIUWX2OpKcNjvIUeBSup-mA7IgFjIc",
+//   apiKey: "<API KEY?",
 //   authDomain: "wastewise-f37f3.firebaseapp.com",
 //   projectId: "wastewise-f37f3",
 //   storageBucket: "wastewise-f37f3.appspot.com",
@@ -23,8 +23,8 @@ import ReactNativeAsyncStorage from '@react-native-async-storage/async-storage';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyANIhj7sA5jKKYxUN94TfOi5rX8yPdH5Ys",
-  authDomain: "trashtrek-ef9e1.firebaseapp.com",
+  apiKey: "<API KEY>",
+  authDomain: "<authDomain>",
   projectId: "trashtrek-ef9e1",
   storageBucket: "trashtrek-ef9e1.firebasestorage.app",
   messagingSenderId: "52883549830",
